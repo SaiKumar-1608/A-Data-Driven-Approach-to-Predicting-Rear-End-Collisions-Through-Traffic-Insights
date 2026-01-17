@@ -85,8 +85,6 @@ Synthetic Minority Oversampling Technique (SMOTE) used to address imbalance
 │   └── Main.csv
 ├── notebooks/
 │   └── ML_Traffic2.ipynb
-├── simulation/
-│   └── SUMO configuration files
 ├── results/
 │   └── graphs and evaluation metrics
 ├── README.md
@@ -129,5 +127,6 @@ This project is based on an academic research study focusing on intelligent tran
 - Deploy prediction model as a real-time ITS service
 
 - Improve scalability with larger and diverse road networks
+
 
 
